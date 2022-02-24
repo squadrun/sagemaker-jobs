@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+sagemaker_jobs/__init__.py
+sagemaker_jobs/constants.py
+sagemaker_jobs/sagemaker_training_job.py
+sagemaker_jobs.egg-info/PKG-INFO
+sagemaker_jobs.egg-info/SOURCES.txt
+sagemaker_jobs.egg-info/dependency_links.txt
+sagemaker_jobs.egg-info/requires.txt
+sagemaker_jobs.egg-info/top_level.txt
