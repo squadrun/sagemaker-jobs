@@ -121,7 +121,7 @@ Usage
 
 .. code-block:: python
 
-    from sagemaker_jobs import create_training_jobs, get_sagemaker_client, ML_M5_4XLARGE
+    from sagemaker_jobs import create_training_job, get_sagemaker_client, ML_M5_4XLARGE
 
 
     create_training_job(
